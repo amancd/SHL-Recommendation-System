@@ -29,7 +29,7 @@ shl-recommender/
 ### Health Check
 `GET /health`
 
-https://your-api-url/health
+[https://api-g7q1.onrender.com/health](https://api-g7q1.onrender.com/)
 
 {
   "status": "ok"
